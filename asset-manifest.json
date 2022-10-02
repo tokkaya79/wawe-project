@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/wawe-project/static/css/main.245c7bfb.css",
+    "main.js": "/wawe-project/static/js/main.579a7a5a.js",
+    "static/media/wawe_bg.png": "/wawe-project/static/media/wawe_bg.edffd9520dd14a3b8f58.png",
+    "static/media/fon_blog.jpg": "/wawe-project/static/media/fon_blog.c829e290f47ad4902ea5.jpg",
+    "static/media/lessons_pic.jpg": "/wawe-project/static/media/lessons_pic.608ca1fead203c9799f6.jpg",
+    "static/media/video_fon.jpg": "/wawe-project/static/media/video_fon.df2bae2ee95b754ff4e0.jpg",
+    "index.html": "/wawe-project/index.html",
+    "static/media/sun-ikon.svg": "/wawe-project/static/media/sun-ikon.6c67b13d6b8733eb118b.svg",
+    "static/media/loon-icon.svg": "/wawe-project/static/media/loon-icon.089adb8dd68b54895792.svg",
+    "static/media/fli-ikon.svg": "/wawe-project/static/media/fli-ikon.693533bc84f71badce47.svg",
+    "static/media/title_line.svg": "/wawe-project/static/media/title_line.734832c402ef4c76f252.svg",
+    "main.245c7bfb.css.map": "/wawe-project/static/css/main.245c7bfb.css.map",
+    "main.579a7a5a.js.map": "/wawe-project/static/js/main.579a7a5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.245c7bfb.css",
+    "static/js/main.579a7a5a.js"
+  ]
+}
