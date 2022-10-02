@@ -1,17 +1,3 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
 html {
   box-sizing: border-box;
 }
@@ -74,7 +60,7 @@ a {
 /* font-family: 'Raleway', sans-serif; */
 
 .header {
-  background: url(../public/images/wawe_bg.png);
+  background: url(../images/wawe_bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -98,7 +84,7 @@ a {
 }
 
 .title::after {
-  content: url('../public/images/title_line.svg');
+  content: url('../images/title_line.svg');
   display: block;
   margin-top: 20px;
 }
@@ -268,15 +254,15 @@ a {
 }
 
 .skils__subtitle--sun::before {
-  background-image: url('../public/images/sun-ikon.svg');
+  background-image: url('../images/sun-ikon.svg');
 }
 
 .skils__subtitle--fli::before {
-  background-image: url('../public/images/fli-ikon.svg');
+  background-image: url('../images/fli-ikon.svg');
 }
 
 .skils__subtitle--loon::before {
-  background-image: url('../public/images/loon-icon.svg');
+  background-image: url('../images/loon-icon.svg');
 }
 
 .skils__text {
@@ -326,7 +312,7 @@ a {
 
 .lessons {
   background-color: #ffff;
-  background-image: url(../public/images/lessons_pic.jpg);
+  background-image: url(../images/lessons_pic.jpg);
   background-repeat: no-repeat;
   background-size: 45%;
   background-position: top right;
@@ -407,7 +393,7 @@ a {
   bottom: 0;
   right: 0;
   left: 0;
-  background-image: url(../public/images/point_img.jpg);
+  background-image: url(../images/point_img.jpg);
   opacity: 0;
   transition: all .3s;
 }
@@ -460,7 +446,7 @@ a {
 }
 
 .video__inner {
-  background-image: url(../public/images/video_fon.jpg);
+  background-image: url(../images/video_fon.jpg);
   height: 600px;
   display: flex;
   justify-content: center;
@@ -502,7 +488,7 @@ a {
 }
 
 .blog__slider {
-  background: url(../public/images/fon_blog.jpg);
+  background: url(../images/fon_blog.jpg);
   background-size: cover;
   padding-bottom: 71px;
   background-repeat: no-repeat;
